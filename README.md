@@ -95,4 +95,4 @@ In this pcap you should be able to find/answer the following:
 
 
 ## Resources
-the PCAP files are included in the resources folder. Burt_01 is hosted here: https://byu.box.com/s/5b6t8rka4kxzjnqhqt36t9kp80177b82. Burt_02 and Burt_03 images are not included due to their size if you would like access to them please contact me at jobs@benshkies.dev and we can figure out a way to transfer them.
+The PCAP files are included in the main folder. Burt_01 is hosted here: https://byu.box.com/s/5b6t8rka4kxzjnqhqt36t9kp80177b82. Burt_02 and Burt_03 images are not included due to their size if you would like access to them please contact me at jobs@benshkies.dev and we can figure out a way to transfer them.
